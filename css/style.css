@@ -11,8 +11,8 @@ body{
 }
 
 a{
-    text-decoration: none;
-    color: white;
+    text-decoration: underline;
+    color: rgb(253, 253, 253);
 }
 
 input, button{
@@ -22,4 +22,18 @@ input, button{
 }
 button{
     border-radius: 8px;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+}
+
+
+div {
+
+    color: black;
 }
