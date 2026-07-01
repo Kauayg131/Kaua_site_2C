@@ -4,5 +4,10 @@
 }
 
 body{
-    background: linear-gradient(to right, rgb(0, 238, 255), rgb(0, 141, 151));
+    background: linear-gradient(to right, rgb(0, 38, 151), rgb(0, 64, 255), rgb(0, 38, 151));
+}
+
+a{
+    text-decoration: none;
+    color: white;
 }
